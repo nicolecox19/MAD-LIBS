@@ -1,0 +1,36 @@
+body {
+  margin: auto;
+  border: inherit;
+  padding: inherit;
+  text-align: left;
+}
+h1 {
+text-align: center;
+text-decoration: underline;
+font-weight: 400;
+font-family: cursive;
+margin: 5px;
+border: 0
+padding: 5px 0 5px o;
+}
+h2 {
+  text-align: center;
+  font-size: 15px;
+  font-style: italic;
+}
+
+.important{
+  text-align: center;
+  flex: initial;
+  margin: inherit;
+  border: 5px;
+  padding: inherit;
+  border-width: thin;
+}
+p {
+  text-align: center;
+
+}
+ul {
+  text-align: left;
+}
